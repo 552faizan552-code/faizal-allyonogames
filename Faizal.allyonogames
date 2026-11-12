@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FAIZAL ALLYONOGAMES</title>
+<style>
+body{margin:0;font-family:Arial;background:#f4f5f7;color:#111}
+header{background:#087b25;color:white;text-align:center;padding:25px 10px}
+header h1{font-size:25px;margin:5px}
+header p{margin:8px}
+.container{padding:12px}
+.card{background:white;border:2px solid #d5d8dc;border-radius:13px;padding:15px;margin:12px 0;display:flex;align-items:center;gap:12px}
+.logo{width:65px;height:65px;background:#e2f4e5;border-radius:12px;display:grid;place-items:center;font-size:30px}
+.info{flex:1}
+.info h2{font-size:18px;margin:0 0 8px}
+.info p{color:#218044;font-size:13px}
+.btn{background:#00ae16;color:white;padding:12px 10px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:13px}
+footer{text-align:center;padding:25px;color:#666}
+</style>
+</head>
+<body>
+<header>
+<h1>FAIZAL_ALLYONOGAMES</h1>
+<p>Welcome to My Gaming World</p>
+</header>
+<div class="container">
+
+<div class="card">
+<div class="logo">♟️</div>
+<div class="info">
+<h2>Lichess</h2>
+<p>Free Online Chess</p>
+</div>
+<a class="btn" href="https://lichess.org/">PLAY</a>
+</div>
+
+<div class="card">
+<div class="logo">🎮</div>
+<div class="info">
+<h2>Scratch</h2>
+<p>Free Creative Games</p>
+</div>
+<a class="btn" href="https://scratch.mit.edu/">PLAY</a>
+</div>
+
+<div class="card">
+<div class="logo">🧩</div>
+<div class="info">
+<h2>Sudoku</h2>
+<p>Free Puzzle Games</p>
+</div>
+<a class="btn" href="https://sudoku.com/">PLAY</a>
+</div>
+
+<div class="card">
+<div class="logo">🌍</div>
+<div class="info">
+<h2>GeoGuessr</h2>
+<p>Explore the World</p>
+</div>
+<a class="btn" href="https://www.geoguessr.com/">PLAY</a>
+</div>
+
+</div>
+<footer>
+<p>© 2026 FAIZAL_ALLYONOGAMES</p>
+<p>Enjoy Free Games!</p>
+</footer>
+</body>
+</html>
